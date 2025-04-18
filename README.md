@@ -6,4 +6,4 @@ The webpage contains a list of some recipes I know, and each link takes you to a
 
 The goal of this project is just to get used to using some html elements as part of the Odin Project.
 
-The published site can be found at 
+The published site can be found at https://j-vadakken.github.io/odin-recipes/
